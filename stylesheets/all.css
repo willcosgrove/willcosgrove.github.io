@@ -1,0 +1,44 @@
+body {
+  background-color: #e9e8e6;
+  margin: 0px;
+  font-size: 14px; }
+
+main {
+  max-width: 640px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto; }
+
+span.caret {
+  background: #0f79ff;
+  animation: blink 1.5s steps(1) infinite;
+  display: inline-block;
+  width: 2px;
+  height: 1.4em;
+  position: relative;
+  top: 0.35em; }
+
+@keyframes blink {
+  0% {
+    opacity: 0; }
+  50% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
+p {
+  color: #262626;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1.6em;
+  font-weight: 400;
+  margin-bottom: 1.6em;
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 1.8em; }
+
+p.aside {
+  color: #8c8c8c;
+  font-size: 1em;
+  font-style: italic; }
+
+strong {
+  color: #9f3b29; }
