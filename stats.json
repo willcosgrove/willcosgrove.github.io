@@ -22,7 +22,9 @@
     ],
     "commons": [
       "commons-13cab7a0a5c97c082902.js",
-      "commons-13cab7a0a5c97c082902.js.map"
+      "build-js-styles.css",
+      "commons-13cab7a0a5c97c082902.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -43,8 +45,8 @@
       "path---hire-me-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-hire-me-js": [
-      "component---src-pages-hire-me-js-35c5dee39b97437589ff.js",
-      "component---src-pages-hire-me-js-35c5dee39b97437589ff.js.map"
+      "component---src-pages-hire-me-js-c44ca966e65c9e5a1dba.js",
+      "component---src-pages-hire-me-js-c44ca966e65c9e5a1dba.js.map"
     ]
   }
 }
